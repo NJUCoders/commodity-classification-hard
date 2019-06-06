@@ -15,10 +15,16 @@
 *.data
 *.json
 
-*.cfg
 !cfg/yolov3*.cfg
 
-data/*
+data/hard
+data/images
+data/labels
+!data/my.data
+!data/my.names
+!data/train.txt
+!data/test.txt
+!data/labels
 !data/samples/zidane.jpg
 !data/samples/bus.jpg
 !data/coco.names
