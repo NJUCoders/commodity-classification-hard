@@ -20,6 +20,7 @@
 data/hard
 data/images
 data/labels
+easy/model
 !data/my.data
 !data/my.names
 !data/train.txt
